@@ -1,0 +1,2 @@
+background-image: linear-gradient(to right, #ff640089 0%, #ff960ba8 100%), 
+      radial-gradient(ellipse, #ff6400ce 39%, #ff960bce 100%);
